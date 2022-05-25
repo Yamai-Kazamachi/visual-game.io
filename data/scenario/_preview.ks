@@ -3,6 +3,8 @@
 *mulai
 
 [cm  ]
+[delay  speed="10"  ]
+[playbgm  volume="80"  time="900"  loop="false"  storage="search.ogg"  ]
 [bg  storage="room.jpg"  time="1000"  ]
 [tb_show_message_window  ]
 [chara_show  name="akane"  time="1000"  wait="false"  height=""  left="282"  top="56"  width=""  reflect="false"  ]
@@ -19,6 +21,7 @@ Siapakah Namamu?[p]
 
 [glink  color="black"  storage="scene1.ks"  size="20"  text="Umm..&nbsp;Perkenalkan&nbsp;Namaku&nbsp;Iqbal!"  x="313"  y="357"  width=""  height=""  _clickable_img=""  target="*iqbal"  ]
 [glink  color="black"  storage="scene1.ks"  size="20"  text="Umm..&nbsp;Perkenalkan&nbsp;Namaku&nbsp;Damar!"  x="301"  y="302"  width=""  height=""  _clickable_img=""  target="*damar"  ]
+[stopbgm  time="1000"  fadeout="false"  ]
 [s  ]
 *iqbal
 

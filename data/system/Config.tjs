@@ -2,11 +2,11 @@
 ;global.config_version=4.10
 ;System.title=test
 ;projectID=test
-;ScreenRatio=fix
+;ScreenRatio=fit
 ;ScreenCentering=true
 ;useCamera=true
-;scWidth=960
-;scHeight=640
+;scWidth=1280
+;scHeight=720
 ;chSpeed=30
 ;chSpeeds.fast=10
 ;chSpeeds.normal=30
